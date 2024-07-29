@@ -66,11 +66,3 @@ These metrics demonstrate the model's ability to accurately predict employee abs
 ## Results
 
 The logistic regression model successfully identifies key factors contributing to employee absenteeism. These insights can help organizations develop strategies to reduce absenteeism rates, improve productivity, and enhance employee well-being.
-
-## Usage
-
-To use this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/employee-absenteeism-prediction.git
